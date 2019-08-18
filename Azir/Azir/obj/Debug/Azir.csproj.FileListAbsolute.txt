@@ -1,0 +1,12 @@
+c:\users\asus\documents\visual studio 2012\Projects\Azir\Azir\bin\Debug\MaterialSkin.dll
+c:\users\asus\documents\visual studio 2012\Projects\Azir\Azir\obj\Debug\Azir.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2012\Projects\Azir\Azir\obj\Debug\Azir.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2012\Projects\Azir\Azir\obj\Debug\Azir.azir.resources
+c:\users\asus\documents\visual studio 2012\Projects\Azir\Azir\bin\Debug\Renci.SshNet.dll
+c:\users\asus\documents\visual studio 2012\Projects\Azir\Azir\bin\Debug\Renci.SshNet.xml
+c:\users\asus\documents\visual studio 2012\Projects\Azir\Azir\bin\Debug\Azir-svs.exe.config
+c:\users\asus\documents\visual studio 2012\Projects\Azir\Azir\bin\Debug\Azir-svs.exe
+c:\users\asus\documents\visual studio 2012\Projects\Azir\Azir\bin\Debug\Azir-svs.pdb
+c:\users\asus\documents\visual studio 2012\Projects\Azir\Azir\obj\Debug\AzirSVS.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2012\Projects\Azir\Azir\obj\Debug\Azir-svs.exe
+c:\users\asus\documents\visual studio 2012\Projects\Azir\Azir\obj\Debug\Azir-svs.pdb
