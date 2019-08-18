@@ -1,11 +1,11 @@
-# Azir_Socks_over_Ssh
-Simple Socks Proxy Forwarding Over Ssh
+# Introduction
+Create a socks proxy tunnel with your linux server , a simple and EZ way to censorship circumvention, you can use and set it in any program so that support socks proxy.by change listen host name to your local or public ip(need port forward) you can use it from phones and other devices in your local or public network!
 
 # Refrences
 Renci.SshNet #SSH Connection
 
 MaterialSkin #Design
-# Info
+# Bulid
 #Visual Studio 2012
 
 #.Net FrameWork 4.5
