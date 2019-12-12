@@ -1,5 +1,5 @@
 # Introduction
-Create a socks proxy tunnel with your linux server , a simple and EZ way to censorship circumvention, you can use and set it in any program so that support socks proxy.by changing listen host name to your local or public ip(need port forward) you can use it from phones and other devices in your local or public network!
+Create a socks proxy tunnel with your linux server , a simple and EZ way to censorship circumvention, you can use and set it in any program so that support socks proxy.by changing listen host name to your local or public ip(need port forward) you can use it in smart phones and other devices in your local or public network!
 
 # Refrences
 Renci.SshNet #SSH Connection
